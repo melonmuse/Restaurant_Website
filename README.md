@@ -2,7 +2,9 @@
 
 **A multi-page website for a Japanese restaurant, with a live order builder that calculates the bill as you go and a feedback form with emoji ratings.**
 
-### 🔗 [Live Demo](https://melonmuse.github.io/Restaurant_Website/)
+![Shofuku Video](media/Shofuku_Video.mp4)
+
+🔗 [Live Demo](https://melonmuse.github.io/Restaurant_Website/)
 
 
 ## Overview
