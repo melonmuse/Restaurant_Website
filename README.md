@@ -43,5 +43,5 @@ git clone https://github.com/melonmuse/Restaurant_Website.git
 - [ ] Submit feedback without an emoji rating. You should see an alert.
 
 ## Team
-- **Abeer Abu Shiekah**
-- **[Team member 2]**
+- Abeer Abu Shiekah
+- Mizuki Shinoda
